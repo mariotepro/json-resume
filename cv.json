@@ -1,0 +1,138 @@
+{
+    "basics": {
+        "name": "Mario Bastardo Gago",
+        "label": "Backend Java Developer | @Almis Informática Financiera",
+        "image": "https://avatars.githubusercontent.com/u/15969360?v=4",
+        "email": "mariobastardo@gmail.com",
+        "phone": "670685729",
+        "url": "mariotepro.github.io",
+        "summary": "I am a Java backend developer, based in Valladolid. I work easily with dependency management systems as Maven and frameworks as Springboot. I do enjoy DevOps. I can also develop with C++ and Python. I adapt extremely well to changes and new methodologies. I love to research in productivity, efficiency, organization and optimization methodologies (5S, Kaizen, Monozukuri, Kanban...). I would love to work automating processes. I also have a background in car factories and as a mechanic there, which happens to be my passion. I speak english fluently and I have no problem in communicating in french",
+        "headline": "Developer and mechanic (actual mechanic, I also resolve all kind of problems)",
+        "location": {
+            "address": "Oriental 4 3B",
+            "postalCode": "47194",
+            "city": "Valladolid",
+            "countryCode": "ES",
+            "region": "Valladolid"
+        }
+    },
+    "work": [
+        {
+            "name": "Almis Informática Financiera",
+            "location": "Zamora, Spain",
+            "position": "Java software developer",
+            "url": "https://www.almis.com/",
+            "startDate": "2018-06-01",
+            "endDate": "",
+            "summary": "J2EE developer, mixing with a lot of other technologies. I develop webapps and calculation engines for the financial sector, being our main customer Banco Santander (Spain, EU, UK, US)",
+            "end": {},
+            "website": "https://www.almis.com/"
+        },
+        {
+            "name": "Grupo Renault España",
+            "location": "Valladolid, España",
+            "position": "Line Minder",
+            "url": "https://renault.es/",
+            "startDate": "2010-06-01",
+            "endDate": "2018-06-01",
+            "summary": "I was responsible of manufacturing with and managing several mechanical and hydraulical stamping press lines. I programmed and repaired automation systems such as Siemens Step 7. I also used PL7Pro, Simatic and Magelis panels. Diferential fault diagnose. Mechanics, hydraulics, pneumatics and electricity. I also worked with cranes and forklifts. I learnt a lot in work management systems, automations and organization.",
+            "website": "https://renault.es/"
+        },
+        {
+            "name": "Rapture Games",
+            "location": "Valladolid, Spain",
+            "position": "Developer trainee",
+            "url": "",
+            "startDate": "2015-03-01",
+            "endDate": "2015-06-01",
+            "summary": "Developer trainee internal in Rapture Games in Valladolid. I worked with C++, FrontEnd technologies and Python.",
+            "website": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Centro de enseñanza Gregorio Fernández",
+            "url": "https://gregoriofer.com/",
+            "area": "Computer programming",
+            "studyType": "CFGS - Multiplatform app developer",
+            "startDate": "2013-09-01",
+            "endDate": "2015-06-01",
+            "score": "N/A",
+            "courses": [],
+            "description": "Multiplatform app developer CFGS (as in spanish: Ciclo formativo de grado superior)    \n\nJAVA\nHTML\nCSS\nWindows\nC#\nAndroid\nSQL\nWordPress\nXML\nOracle\nCMS\nJSON\nOpenERP\nNavision",
+            "gpa": "Multiplatform app developer"
+        },
+        {
+            "institution": "Grupo Renault España",
+            "url": "https://renault.es",
+            "area": "Mechanics",
+            "studyType": "Course - Vivero de competencias",
+            "startDate": "2009-09-01",
+            "endDate": "2010-06-01",
+            "score": "N/A",
+            "courses": [],
+            "description": "\"Vivero de competencias Carrocerías Renault\". Due to an agreement between Grupo Renault España and I.P. Cristo Rey, we went to study to Carrocerías Renault Valladolid in my spare time, in order to learn mechanics, hydraulics, pneumatics and electricity work for, later on, get a position in that company. I also learnt automation programming (Siemens Step7, PL7Pro and Phoenix Contacts) and robotic arm programming (Kuka and ABB)",
+            "gpa": "Vivero de competencias"
+        },
+        {
+            "institution": "Instituto politécnico Cristo Rey",
+            "url": "https://cristoreyva.com/",
+            "area": "Computer science",
+            "studyType": "CFGS - Telecom and IT systems",
+            "startDate": "2008-09-01",
+            "endDate": "2010-06-01",
+            "score": "Telecom and IT systems",
+            "courses": [],
+            "description": "Telecom and IT systems, CFGS. I passed the degree where I learnt radio, tv, landlines and GSM systems. Also learnt electronic systems and its architecture, always being focused con telecom. Besides, I leart advanced CAD for wiring projects. Also done some IT admin stuff.",
+            "gpa": "Telecom and IT systems"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Asociación juvenil Federico Ozanám de La Rioja",
+            "position": "Leisure camp instructor and director",
+            "url": "https://campamentopadrepicon.com",
+            "startDate": "2007-07-01",
+            "endDate": "",
+            "summary": "Leisure camp instructor and director for Asociación juvenil Federico Ozanám de La Rioja. I volunteer with children in exclusion risk performing a yearly camp in León. I also maintain the web-page"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Conversational"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced speaker - Technical lexic"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "First Certificate in English",
+            "issuer": "Cambridge University Press",
+            "date": "2018-07-01",
+            "url": "https://www.cambridgeenglish.org/es/",
+            "summary": "",
+            "fullDate": {
+                "year": 2018,
+                "month": 7,
+                "day": null
+            },
+            "website": "https://www.cambridgeenglish.org/es/"
+        }
+    ],
+    "meta": {
+        "note": "This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.",
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2020-12-29T15:53:00",
+        "meta": {
+            "theme": "elegant"
+        }
+    }
+}
